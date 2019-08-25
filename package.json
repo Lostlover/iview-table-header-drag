@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Lostlover/iview-table-header-darg.git"
+    "url": "git+https://github.com/Lostlover/iview-table-header-drag.git"
   },
   "keywords": [
     "vue",
@@ -19,9 +19,9 @@
   "author": "Lostlover",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Lostlover/iview-table-header-darg/issues"
+    "url": "https://github.com/Lostlover/iview-table-header-drag/issues"
   },
-  "homepage": "https://github.com/Lostlover/iview-table-header-darg#readme",
+  "homepage": "https://github.com/Lostlover/iview-table-header-drag#readme",
   "peerDependencies": {
     "iview": "^3"
   },
