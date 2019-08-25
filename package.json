@@ -1,6 +1,6 @@
 {
   "name": "iview-table-header-drag",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "iview table header drag",
   "main": "dist/index.js",
   "scripts": {
